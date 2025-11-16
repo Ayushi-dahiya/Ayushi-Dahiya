@@ -7,14 +7,15 @@
 
 ---
 
-## 🚀 Projects
-- ✈️ **Airlines Reservation System (C++)**  
-  A system to manage ticket reservations with seat confirmation.  
+✈️ Airlines Reservation System (C++)
+A console-based system to manage airline ticket reservations, seat allocation, passenger details, booking confirmation, and cancellation.
 
-- 🏠 **Property Rental and Sales Website (HTML, CSS, JS, PHP)**  
-  Full-stack web app to list and manage properties for rent/sale with admin panel.  
+🏠 Property Rental and Sales Website (HTML, CSS, JS, PHP)
+A full-stack real estate website to list, filter, and manage properties for rent or sale, including user login, property details page, and an admin dashboard for CRUD operations.
 
----
+🤖 LinkedIn Profile Generator (Python, Streamlit, Groq API)
+An AI-powered tool that generates professional LinkedIn summaries, headlines, About sections, and motivational posts using LLMs.
+Built with Streamlit and integrated with Groq API, it helps users create job-ready LinkedIn content instantly.
 
 ## 🏆 Experience & Leadership
 - **Core Team Member – Google Developer Groups (GDG) JIIT** (2024–2025)  
